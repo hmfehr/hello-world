@@ -39,4 +39,9 @@ else {
 }
 }
 
-
+function ratings(){
+let usersNum = prompt('How would you rate my page? 1-5');
+for (let i = 0; i < usersNum && i < 5; i++){
+  document.write('<img src="charlesdeluvio-Mv9hjnEUHR4-unsplash.jpg" alt="dog" class="dog"/>');
+}
+}

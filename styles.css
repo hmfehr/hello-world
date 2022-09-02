@@ -4,3 +4,8 @@ header {background-color: rgb(0, 245, 164);}
 
 p{color: brown;}
 img {width: 400px;}
+
+.dog{
+    width: 100px; 
+    display: inline-block;
+}
